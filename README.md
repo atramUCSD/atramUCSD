@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @atramUCSD
+- 👀 I’m interested in:
+  - Videogames
+  - Esports
+  - Basketball/Soccer/Tennis/Football
+- 🌱 I’m currently learning
+  - React/React JS
+  - WordPress
+  - Adobe XD
+  - Adobe Illustrator
+- 📫 How to reach me: 
+  - Number: 760-500-6934
+  - Email: atram@ucsd.edu
