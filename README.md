@@ -10,4 +10,4 @@
   - Adobe Illustrator
 - 📫 How to reach me: 
   - Number: 760-500-6934
-  - Email: atram@ucsd.edu
+  - Email: atram@webui@gmail.com
